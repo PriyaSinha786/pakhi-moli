@@ -5,7 +5,7 @@ body, html {
     padding: 0;
     height: 100%;
     width: 100%;
-    background: linear-gradient(to right, #520437 , #be0e1c);
+    background: linear-gradient(to right, #520437 , #500607);
 }
 
 h1{
@@ -356,8 +356,8 @@ p{
     text-transform: none;
     font-family: 'Great Vibes', cursive;
     color: rgb(236, 129, 57);
-    font-size: 4rem;
+    font-size: 2rem;
     width: max-content;
     font-weight: lighter;
-    margin-left: -40rem;
+    margin-left: -20rem;
 }
